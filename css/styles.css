@@ -249,7 +249,7 @@ h1 {
     border-radius: 30px;
     position: relative;
     top: -47px;
-    left: 241px;
+       left: 84%;
     background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
     box-shadow: 0 1rem 2rem hsl(0, 93%, 68%, 0.3);
 }
