@@ -154,7 +154,7 @@ h1 {
   border: 2px solid hsl(0, 93%, 68%) !important;
 }
 
-.emailinput {
+.email {
   width: 67%;
   padding: 17px 30px;
     margin: 8px 0;
@@ -227,7 +227,7 @@ h1 {
     line-height: 21px;
 }
 
-.emailinput {
+.email {
   width: 100%;
   padding: 11px 30px;
   margin: 0;
