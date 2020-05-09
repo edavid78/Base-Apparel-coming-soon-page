@@ -186,7 +186,7 @@ button:hover {
 }
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 600px) {
   .hero-text-container {
     padding: 7.8% 0 0 0;
 }
